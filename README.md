@@ -36,7 +36,7 @@ Install the Resolver, restart Cider, and then enable MV Immersive. The Resolver 
 
 ## Getting started
 
-1. Install MV Immersive from the Cider Marketplace.
+1. Install MV Immersive from https://github.com/YoreYore33/MV-Immersive/releases.
 
 2. Install Cider MV Resolver from the link above.
 
