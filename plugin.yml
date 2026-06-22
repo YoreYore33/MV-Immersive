@@ -1,0 +1,11 @@
+ce_prefix: mv-immersive
+identifier: org.yoreyore.mv-immersive
+name: MV Immersive
+description: Plays configured music videos behind the Cider immersive player layout.
+version: 0.1.0
+author: yoreyore
+repo: ""
+pluginKitVersion: "4"
+entry:
+  plugin.js:
+    type: main

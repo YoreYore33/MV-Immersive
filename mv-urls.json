@@ -1,0 +1,17 @@
+{
+  "defaults": {
+    "muted": true,
+    "loop": false,
+    "showLyrics": true,
+    "showDrawer": true,
+    "dim": 0.35,
+    "pauseCiderWhenVideoStalls": true,
+    "videoStallGraceMs": 700,
+    "youtubeQuality": "1080",
+    "holdLastFrameWhenVideoEnds": true,
+    "useYouTubeResolver": true,
+    "youtubeResolverUrl": "http://127.0.0.1:3060",
+    "resolverFallbackToIframe": true
+  },
+  "videos": []
+}
