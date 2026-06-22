@@ -38,13 +38,15 @@ Install the Resolver, restart Cider, and then enable MV Immersive. The Resolver 
 
 1. Install MV Immersive from https://github.com/YoreYore33/MV-Immersive/releases.
 
-2. Install Cider MV Resolver from the link above.
+2.Extract to AppData\Roaming\sh.cider.dotnet\plugins.
 
-3. Restart Cider.
+3. Install Cider MV Resolver from the link above.
 
-4. Select MV Immersive from the immersive layout picker.
+4. Restart Cider.
 
-5. Play a track and use the MV button to assign its video URL.
+5. Select MV Immersive from the immersive layout picker.
+
+6. Play a track and use the MV button to assign its video URL.
 
 ## Privacy
 
