@@ -1,11 +1,33 @@
 
-# MV Immersive
-<img width="1000" height="1000" alt="Frame 2 (3)" src="https://github.com/user-attachments/assets/9e6f101d-6b92-4b2e-b9d6-4fa4712581db" />
-Add a new immersive style to Cider with synced music videos.
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/9e6f101d-6b92-4b2e-b9d6-4fa4712581db"
+    alt="MV Immersive"
+    width="280"
+  />
+</p>
 
-> **Cider MV Resolver is required for YouTube playback.**
-> Installing this plugin alone will not enable YouTube playback. Install and run the companion app for Windows x64:
-> [Download Cider MV Resolver](https://github.com/YoreYore33/Cider-MV-Resolver)
+<h1 align="center">MV Immersive</h1>
+
+<p align="center">
+  Add a new immersive style to Cider with synced music videos.
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Cider MV Resolver is required for YouTube playback.</strong>
+  <br>
+  Installing this plugin alone will not enable YouTube playback.
+  <br>
+  Install and run the companion app for Windows x64.
+</p>
+
+<p align="center">
+  <a href="https://github.com/YoreYore33/Cider-MV-Resolver">
+    Download Cider MV Resolver
+  </a>
+</p>
 
 ## Overview
 
