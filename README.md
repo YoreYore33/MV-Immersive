@@ -1,5 +1,6 @@
-# MV Immersive
 
+# MV Immersive
+<img width="2256" height="2256" alt="Frame 2 (3)" src="https://github.com/user-attachments/assets/9e6f101d-6b92-4b2e-b9d6-4fa4712581db" />
 Add a new immersive style to Cider with synced music videos.
 
 > **Cider MV Resolver is required for YouTube playback.**
